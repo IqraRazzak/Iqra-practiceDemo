@@ -1,4 +1,5 @@
 # Iqra-practiceDemo
 Hi, this is my first creation of repo
-Author-Iqra Fatima
-Work-Practising Git
+<p>Author-Iqra Fatima</p>
+<br>
+Work-Practising Git </br>
